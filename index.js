@@ -1,6 +1,6 @@
-/* 
-    This repository was created with the intention of helping developers master 
-    their concepts in JavaScript. It is not a requirement, but a guide for 
-    future studies. It is based on an article written by Stephen Curtis and 
-    you can read it here. Feel free to contribute.
+/*
+Ity tahiry ity dia noforonina tamin'ny fikasana hanampy ny developer hifehy
+    ny hevitr'izy ireo amin'ny JavaScript. Tsy fepetra izany fa torolalana ho an'ny
+    fianarana ho avy. Izany dia mifototra amin'ny lahatsoratra nosoratan'i Stephen Curtis sy
+    azonao vakiana eto. Aza misalasala mandray anjara.
 */

@@ -1,19 +1,21 @@
 
-# Contribution
-This project would not be possible without your help and support and we appreciate your willingness to contribute!
+# Fandraisana anjara
 
-### Creating New Translation
+Tsy ho tanteraka ity tetikasa ity raha tsy misy ny fanampianao sy ny fanohananao ary mankasitraka ny fahavononanao handray anjara!
 
-In order to create a new translation, you need to follow these steps:
+### Mamorona Dikanteny Vaovao
 
-* Fork the [main repo](https://github.com/leonardomso/33-js-concepts).
-* Add yourself to the watch list of the main repo, to keep up with changes.
-* Translate the repo, on your forked repo.
-* Go to the [main repo](https://github.com/leonardomso/33-js-concepts) and edit the README.md to include your translated repo link there.
-* Inside the **Community**, add a new line with the link for you translated repo like: 
-	* - [Your Language](link to your repo here) — Your Name
-* Create a new Pull Request with the name "Add *your language here* translation.
-* Now, just wait for the merge! 
+Mba hamoronana dikanteny vaovao dia mila manaraka ireto dingana ireto ianao:
 
-## License
-By contributing, you agree that your contributions will be licensed under its MIT license.
+* Forkeo ity [main repo](https://github.com/leonardomso/33-js-concepts).
+* Ampio ny tenanao amin'ny lisitry ny fiambenana ny repo lehibe, hanarahana ny fanovana.
+* Adikao ny repo, eo amin'ny repo misy anao..
+* Mandehana any amin'ny [main repo](https://github.com/leonardomso/33-js-concepts) ary ovay ny README.md mba hampidirana ny rohy repo nadikao ao.
+* Ao anatin'ny **Community**, ampio andalana vaovao miaraka amin'ny rohy nadikanao repo toy ny:
+	* - [ Fiteninao ](rohy makany) — Anaranao
+* Mamorona fangatahana Sintonina vaovao miaraka amin'ny anarana hoe "Ampio *ny fiteninao eto* dikanteny.
+* Andraso fotsiny izao ny fampivondronana!
+
+## Mombamomba ny mpanoratra
+
+Amin'ny fandraisanao anjara dia manaiky ianao fa hahazo alalana amin'ny alàlan'ny lisansa MIT ny fandraisanao anjara.
